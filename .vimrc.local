@@ -1,0 +1,7 @@
+:colo gruvbox
+
+set pastetoggle=<F2>
+
+set ttymouse=sgr
+set mouse=a
+
