@@ -1,0 +1,16 @@
+st :
+
+bashit : git clone --depth=1 https://github.com/Bash-it/bash-it.git ~/.bash_it
+spf-13 : sh <(curl https://j.mp/spf13-vim3 -L)
+    this keeps getting worse. must build own
+
+i3-gaps i3status xorg-server xorg-xinit dmenu
+compton now picom... fix
+arandr
+feh
+ranger
+w3m
+zathura
+redshift
+
+wine
