@@ -13,17 +13,11 @@ set $mod Mod4
 
 # Autostart suff
 # Composite Manager
-exec compton -b &
+exec picom -b &
 # Background
 exec ~/.fehbg &
 # Volume control in tray
-exec pasystray &
-# KVM sharing
-exec synergy &
-# Automatic mounting
-exec udiskie &
-# Blue light bad
-exec redshift -O 3700
+
 
 # Layout
 # remove titlebars
